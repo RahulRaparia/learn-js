@@ -51,3 +51,12 @@ console.log("Log calc gear ratio",bike.calculateGearRatio()); // 4.0909...
 console.log(bike.type); // "Penny Farthing"
 // attempt to point bike to new instance of Bike
 // bike = new Bike(1,2); // error
+
+
+//Implicit type corredtion
+let num1 = 9 * "3";
+console.log("num one is num",num1); // 27 (a number)
+let num2 = 9 + "3";
+console.log("num 2 is a string ",num2); // "93" (a string)
+
+// why do we do this ? 
