@@ -1,0 +1,15 @@
+<script defer src="./scripts/demo2.js"></script>
+<template>
+    <lightning-card title="Basic DOM Example" icon-name="utility:hierarchy">
+        <div class="slds-card__body slds-card__body-inner">
+            <p>
+                <lightning-formatted-text value={text}></lightning-formatted-text>
+            </p>
+
+            <p>
+                First some context: Every Lightning web component requires a JavaScript module. If the component contains any elements to be presented to the user, an HTML template is required, too. Most components contain a JavaScript and an HTML file in what’s called a bundle. 
+                Lightning Web Components make it effortless to render data into UI. For example, the code above uses the JavaScript property text to store a hard coded string. In the <lightning-formatted-text> tag, the value attribute is bound to the JavaScript text property, rendering the data in the UI.
+            </p>
+        </div>
+    </lightning-card>
+</template>
