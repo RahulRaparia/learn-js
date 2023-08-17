@@ -21,6 +21,6 @@ _italic_ When an event is emitted, a message is created in the engine. It is
 
 _italic_ these messages that are placed in the event queue we talked about earlier._italic_ 
 
-!https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/javascript-essentials-salesforce-developers/take-action-events-functions/images/4999e793b0432e8c4e10e440784ca5f5_cjksehj-0-s-000-w-0-t-6-rvvlpiln-9.png
+![https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/javascript-essentials-salesforce-developers/take-action-events-functions/images/4999e793b0432e8c4e10e440784ca5f5_cjksehj-0-s-000-w-0-t-6-rvvlpiln-9.png]
 
 Once the stack is free, the event handler is invoked. This creates what’s referred to as a frame on the call stack. Each time one function invokes another, a new frame is added to the stack, and when complete, it is popped off the stack, until finally the frame for the actual event handler is popped, the stack is empty, and we start all over again. 
