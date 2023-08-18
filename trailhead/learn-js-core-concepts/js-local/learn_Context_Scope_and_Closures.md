@@ -38,4 +38,3 @@ When using let or const, an argument’s or a variable’s scope is always the a
   }
   console.log(i); // What is this?
 }
-```
