@@ -39,3 +39,4 @@ let newArray = myArray.map( function(item){ return item / 2 } ); // anonymous fu
 // here item is just a placeholder for the value of each element in the array
 console.log(newArray); 
 // [0.5, 2.5, 5.5, 8.5]
+
