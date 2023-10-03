@@ -13,6 +13,16 @@ This Dir contains a basic example of a web page to understand the basics of the 
 This Dir contains the code for the trailhead module: learn-js-core-concepts
 Here is the link to the trailhead module: https://trailhead.salesforce.com/content/learn/modules/javascript-development-basics
 
+It also contains more code exampls from various other sources about the topics present in the trailhead module.
+
+### trailhead/learn-LightningWebComponents
+This Dir contains the code for lerning LightningWebComponent Framework of SFCC on which we have to work and make a project to earn the Lighting Web Framework Specialist Super Badge.
+
+### mdnDocs/arrowFuncs
+This Dir contains the code for the MDN Docs module: arrowFuncs
+
+### mdnDocs/closures
+This Dir contains the code for the MDN Docs module: closures
 
 ### trailhead\learn-LightningWebComponents\HelloWorldLightningWebComponent
 This Dir contains the code for the trailhead module: learn-LightningWebComponents
