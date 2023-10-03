@@ -1,24 +1,24 @@
-const materials = ['Hydrogen', 'Helium', 'Lithium', 'Beryllium'];
+// const materials = ['Hydrogen', 'Helium', 'Lithium', 'Beryllium'];
 
-console.log(materials.map((material) => material.length));
-// Expected output: Array [8, 6, 7, 9]
+// console.log(materials.map((material) => material.length));
+// // Expected output: Array [8, 6, 7, 9]
 
-() => expression
+// () => expression
 
-param => expression
+// param => expression
 
-(param) => expression
+// (param) => expression
 
-(param1, paramN) => expression
+// (param1, paramN) => expression
 
-() => {
-  statementsasdasd
-}
+// () => {
+//   statementsasdasd
+// }
 
-param => {
-  statements
-}
+// param => {
+//   statements
+// }
 
-(param1, paramN) => {
-  statements
-}
+// (param1, paramN) => {
+//   statements
+// }
